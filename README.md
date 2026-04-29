@@ -168,7 +168,8 @@ O projeto demonstra a utilização do Docker para containerização de aplicaç�
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Felipe Conte – RM 562248
-Altamir Lima - RM 562909
+Altamir Lima - RM 562906
+
